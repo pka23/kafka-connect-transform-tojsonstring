@@ -22,7 +22,7 @@
 
     <groupId>kafka-connect-transform-record2jsonstring</groupId>
     <artifactId>kafka-connect-transform-record2jsonstring</artifactId>
-    <version>1.4</version>
+    <version>1.4.1</version>
     <description>Kafka Connect single message transform (SMT) taking a record (with schema) and transforms it into a single JSON String
     </description>
     <url>https://github.com/an0r0c/kafka-connect-transform-tojsonstring</url>
@@ -137,7 +137,7 @@
         <dependency>
             <groupId>org.mongodb</groupId>
             <artifactId>bson</artifactId>
-            <version>4.8.0</version>
+            <version>4.8.2</version>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
